@@ -56,5 +56,5 @@ Before you begin, ensure you have met the following requirements:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/cgpa-management-system.git
+   git clone https://github.com/bala-ganapathy/cgpa-management-system.git
    cd cgpa-management-system
